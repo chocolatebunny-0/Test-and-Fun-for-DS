@@ -1,0 +1,12 @@
+           Beautiful Test Qustions 
+1.Create a List
+2.Convert the list into a numpy array
+3.Convert the numpy array to a pandas
+ dataframe
+4.select the numbers in the list that are greater than 100 
+and put in a new dataframe
+5.Describe each dataframe and store in a 
+variable name
+6.Make the variable name a pandas 
+dataframe
+7.concantenate all dataframes
